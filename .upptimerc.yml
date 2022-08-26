@@ -12,8 +12,8 @@ status-website:
   theme: dark
   baseUrl: /beast-era-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Beast Era
-  introTitle: "Beast Era Status"
+  name: Beast Era Status
+  introTitle: "Beast Era"
   introMessage: "**Beast Era** is a multi-purpose discord bot aimed to help different servers with all features they need. Like Moderation, Logging, Information, Utility, Fun, etc."
   navbar:
     - title: Status
