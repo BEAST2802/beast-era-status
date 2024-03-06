@@ -4,17 +4,19 @@
     "url": "https://beast-era.gitbook.io/doc",
     "icon": "https://icons.duckduckgo.com/ip3/beast-era.gitbook.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
+    "time": 274,
     "timeDay": 228,
     "timeWeek": 159,
     "timeMonth": 124,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-06": 0
+    }
   }
 ]
