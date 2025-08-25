@@ -4,17 +4,19 @@
     "url": "https://beast-era.gitbook.io/doc",
     "icon": "https://icons.duckduckgo.com/ip3/beast-era.gitbook.io.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 691,
-    "timeWeek": 656,
-    "timeMonth": 686,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
+    "time": 360,
+    "timeDay": 9821,
+    "timeWeek": 2943,
+    "timeMonth": 1257,
+    "timeYear": 393,
+    "dailyMinutesDown": {
+      "2025-08-25": 22
+    }
   }
 ]
