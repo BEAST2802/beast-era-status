@@ -6,15 +6,15 @@
     "slug": "documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 12164,
-    "timeWeek": 4507,
-    "timeMonth": 1737,
-    "timeYear": 439,
+    "time": 396,
+    "timeDay": 618,
+    "timeWeek": 4521,
+    "timeMonth": 1740,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2025-08-25": 22
     }
